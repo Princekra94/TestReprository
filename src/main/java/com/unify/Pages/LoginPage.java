@@ -141,5 +141,14 @@ public class LoginPage extends TestBase {
 		}
 		return open;
 	}
+	
+	public void testGit() {
+		System.out.println("Testing git update");
+
+	}
+	
+	
+	
+	
 
 }
